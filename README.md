@@ -10,7 +10,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tedjwilson&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
++"
+# I am the greatest programer alive
++" 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tedjwilson&icon=0&color=0)](https://visitcount.itsvg.in)
+
+- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
